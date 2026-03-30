@@ -1,0 +1,20 @@
+spec_version: "0.1.0"
+name: lore
+version: 1.0.0
+description: "A Git Historian that transforms raw commit history into changelogs, release notes, standup summaries, and commit health reports."
+
+model:
+  preferred: claude-sonnet-4-5-20250929
+
+skills:
+  - changelog
+  - release-notes
+  - commit-health
+  - standup
+
+tags:
+  - git
+  - developer-tools
+  - documentation
+  - productivity
+  - hackathon
