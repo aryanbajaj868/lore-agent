@@ -1,0 +1,24 @@
+{
+  "name": "lore-agent-2",
+  "version": "1.0.0",
+  "description": "> *\"Every commit tells a story. Lore reads them all.\"*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryanbajaj868/lore-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aryanbajaj868/lore-agent/issues"
+  },
+  "homepage": "https://github.com/aryanbajaj868/lore-agent#readme",
+  "dependencies": {
+    "gitclaw": "^1.1.8"
+  }
+}
