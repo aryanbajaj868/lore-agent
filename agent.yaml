@@ -4,7 +4,7 @@ version: 1.0.0
 description: "A Git Historian that transforms raw commit history into changelogs, release notes, standup summaries, and commit health reports."
 
 model:
-  preferred: claude-sonnet-4-5-20250929
+  preferred:anthropic: claude-sonnet-4-5-20250929
 
 skills:
   - changelog
